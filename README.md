@@ -1,1 +1,1 @@
-# Find-magic-numbers-in-atypical-files
+# Find-magic-numbers-in-atypical-files in your host
